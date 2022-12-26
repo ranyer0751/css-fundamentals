@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --dark-blue: #1f2937;/*header bg, information title, quote*/
+    --gray-subtitle: #f9faf8;
+    --light-blue-btn: #3882f6;
+    --dark-gray-quote: #e5e7eb;    
+}
+
+header {
+    display: flex;
+}
+
+header .logo img{
+    max-width: 10%;
+}
+
+

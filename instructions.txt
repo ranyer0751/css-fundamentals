@@ -1,0 +1,21 @@
+- page contains 4 big divs, that have different background collors
+- header needs to have a logo and 3 a href links
+- buttons have a rounded border 
+
+THIS WEBSITE IS AWESOME
+- 2 DIVS, one for the title, subtitle and button and one for img
+- display flex for those 2 divs
+
+SOME RANDOM INFORMATION
+- 1 big div for img and 4 different divs, 1 for each img with text
+
+INSPIRING QUOTE
+- italic font for text and different style for name of the author 
+
+CALL TO ACTION 
+- blue box with h2 and h3 in italic
+- 2 divs, one for text and other for button 
+- display flex for those 2 divs 
+
+FOOTER
+- blue background with specific font 
